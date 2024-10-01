@@ -1,0 +1,9 @@
+Establishing a Repo and Remote 
+
+ - git init 
+ - git remote add origin "Copy Link"
+
+ Adding / Updating files 
+ - git add . "for all" OR git add [file name] "for specific file 
+ - git commit -m "[description of update]"
+ - git push origin main OR master

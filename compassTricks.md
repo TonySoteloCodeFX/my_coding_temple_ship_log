@@ -1,0 +1,1 @@
+A compass always points to magnetic north, not true north, which means it's slightly off from the geographic North Pole.
